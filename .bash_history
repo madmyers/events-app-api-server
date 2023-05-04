@@ -54,3 +54,27 @@ git config --global init.defaultBranch main
 git config --global credential.helper store
 git config --global --list
 git init
+git add .
+git statu
+git status
+git commit -m "Initial commit"
+git remote add origin <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>
+git remote add origin <https://github.com/madmyers/repo.git
+git remote add origin <https://github.com/madmyers/repo.git>
+git remote add origin https://github.com/madmyers/events-app-api-server.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/madmyers/events-app-web-server.git
+git remote add origin https://github.com/madmyers/events-app-web-server.git
+git branch -M main
+git branch -M main
+git push -u origin main
+git push -u origin main
+git push -u origin main
+git push -u origin main
+git init
+git add
+git status
+git commit -m "Initial commit"
+git remote add origin https://github.com/madmyers/events-app-web-server.git
+git remote add origin https://github.com/madmyers/events-app-api-server.git
