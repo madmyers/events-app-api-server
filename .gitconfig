@@ -1,0 +1,7 @@
+[user]
+	email = madmyers@deloitte.com
+	name = madmyers
+[init]
+	defaultBranch = main
+[credential]
+	helper = store
